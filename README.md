@@ -1,5 +1,5 @@
 # R_Kmeans
-K means algorithm using Euclidean distance squared. Written for USF course MSAN 593. 
+K means algorithm using Euclidean distance squared. 
 
 100% original code by Addie Schnirel. All rights reserved. 
 
